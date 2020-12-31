@@ -11,7 +11,7 @@ Complementary to S2: Genomic Perspectives in Comparative Physiology of Mollusks:
 
 **Virtual presentation:**  
 
-- [SICB2020_STRIGG.mp4](https://github.com/shellytrigg/talk-SICB2020/blob/master/SICB2020_STRIGG.mp4)
+- [SICB2020_STRIGG.mp4](https://gannet.fish.washington.edu/metacarcinus/Pgenerosa/presentations/SICB2020/SICB2020_STRIGG.mp4)
 
 **Slide deck:** 
 
