@@ -11,12 +11,12 @@ Complementary to S2: Genomic Perspectives in Comparative Physiology of Mollusks:
 
 **Virtual presentation:**  
 
-- [SICB2020_STRIGG.mp4](https://gannet.fish.washington.edu/metacarcinus/Pgenerosa/presentations/SICB2020/SICB2020_STRIGG.mp4)
+- [SICB2021_STRIGG.mp4](https://gannet.fish.washington.edu/metacarcinus/Pgenerosa/presentations/SICB2020/SICB2021_STRIGG.mp4)
 
 **Slide deck:** 
 
-- PDF version: [STRIGG_SICB2020.pdf](https://github.com/shellytrigg/talk-SICB2020/blob/master/STRIGG_SICB2020.pdf)
-- ppt version: [STRIGG_SICB2020.pptx](https://github.com/shellytrigg/talk-pag2020/blob/master/STRIGG_SICB2020.pptx)
+- PDF version: [STRIGG_SICB2021.pdf](https://github.com/shellytrigg/talk-SICB2021/blob/master/STRIGG_SICB2021.pdf)
+- ppt version: [STRIGG_SICB2021.pptx](https://github.com/shellytrigg/talk-SICB2021/blob/master/STRIGG_SICB2021.pptx)
 
 **Bio:**  
 Shelly is a Postdoctoral Fellow in the lab of Steven Roberts at the University of Washington. She studies how the environment impacts marine animals at the physiological and molecular systems level by simulating various ocean conditions and using -omics approaches and physiological assays to measure animal response. She loves the ocean and forests.
